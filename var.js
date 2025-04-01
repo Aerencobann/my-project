@@ -44,12 +44,44 @@
 //
 // console.log(all);
 
-let person = {
-  name : 'eren',
-  lastname : 'COBAN',
-  age : 28 ,
-  hobbies : ['bisiklet', 'boardgame', 'heartstone'],
-}
+// let person = {
+//   name : 'eren',
+//   lastname : 'COBAN',
+//   age : 28 ,
+//   hobbies : ['bisiklet', 'boardgame', 'heartstone'],
+// }
+//
+// console.log(person);
+// console.log(typeof person);
 
-console.log(person);
-console.log(typeof person);
+
+//let cars = ['Bmw', 'Mercedes', 'Audi'];
+
+// let people = [
+//   {firstname : 'Eren', lastname : 'COBAN' },
+//   {firstname : 'Eray', lastname : 'COBAN' },
+// ];
+  //console.log(people);
+
+  // for (let i = 0 ; i < people.length; i++) {
+  //   console.log(people[i].firstname);
+  // }
+  // console.log(typeof people);
+
+// for (let i in people) {
+//   console.log(`index : ${i}, value : ${people[i].firstname}`);
+// }
+
+
+// for (let i = 0; i < cars.length; i++) {
+//           console.log(cars[i]);
+//}
+
+// people.forEach(function(item ){
+//         console.log(item.lastname);
+// })
+
+
+
+
+
