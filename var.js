@@ -131,18 +131,22 @@ val = window;
 console.log(val);
 
 
+//Element Olusturma
 
+ const li = document.createElement
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ console.log(li);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
